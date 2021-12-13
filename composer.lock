@@ -1590,7 +1590,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.3.7",
+        "php": "7.4.26",
         "ext-ftp": "*"
     },
     "platform-dev": [],
